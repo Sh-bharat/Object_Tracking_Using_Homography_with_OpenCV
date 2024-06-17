@@ -119,6 +119,9 @@ cv2.destroyAllWindows()
 
 ## Output
 ![Detected Object](https://github.com/Sh-bharat/Object_Tracking_Using_Homography_with_OpenCV/assets/133742551/4bbfa32a-314c-447c-ad26-0aa8832a338e)
+<br><hr><br>
+![Screenshot 2024-06-17 144155](https://github.com/Sh-bharat/Object_Tracking_Using_Homography_with_OpenCV/assets/133742551/b64a0543-0cec-4b9c-a0e4-8fbd3d27bc8b)
+
 
 
 ## Troubleshooting
